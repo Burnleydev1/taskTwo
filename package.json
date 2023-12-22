@@ -1,0 +1,7 @@
+{
+  "name": "taskTwo",
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress": "^13.6.1"
+  }
+}
